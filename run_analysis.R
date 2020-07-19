@@ -1,7 +1,5 @@
 library(plyr)  
 
-
-
 #Train Data
   Y_train <- read.table("./UCI HAR Dataset/train/y_train.txt")
   X_train <- read.table("./UCI HAR Dataset/train/X_train.txt")

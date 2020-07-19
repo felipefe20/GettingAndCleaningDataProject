@@ -8,6 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 ## Key identifiers:
 * Subject: ID of the subject
 * Activity: Name of the activity performed by the subject during the measurements

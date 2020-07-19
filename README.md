@@ -5,6 +5,7 @@ date: "18/7/2020"
 output: html_document
 ---
 
+
 ## Getting and Cleaning Data - Project - Coursera 
 * Course project for Getting and Cleaning Data Coursera.Data Science Specialization.
 * run_analysis.R script conducts the following once you have downloaded the dataset:
